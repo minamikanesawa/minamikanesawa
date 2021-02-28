@@ -1,8 +1,4 @@
-### Hi there, I'm Minami 👋
-
-🌱  I’m currently learning to code at the [Zero To Mastery Academy](https://zerotomastery.io/).
-
-📫  How to reach me: @minamikanesawa
+### Hi, I'm Minami 👋
 
 <!--
 **minamikanesawa/minamikanesawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
